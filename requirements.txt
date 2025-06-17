@@ -6,7 +6,7 @@ mimiqcircuits==0.17.1
 mimiqlink==0.7.4
 mpmath==1.3.0
 numpy==2.2.4
-protobuf==5.29.4
+protobuf==5.29.5
 quantanium==0.1.14
 requests==2.32.3
 scipy==1.15.2
